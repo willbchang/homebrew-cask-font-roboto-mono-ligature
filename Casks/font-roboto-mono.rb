@@ -2,8 +2,7 @@ cask "font-roboto-mono" do
   version :latest
   sha256 :no_check
 
-  url "https://github.com/googlefonts/RobotoMono/tree/main/fonts/ttf",
-      verified: "github.com/googlefonts/RobotoMono/",
+  url "https://github.com/googlefonts/RobotoMono/tree/main/fonts/ttf"
   name "Roboto Mono"
   homepage "https://fonts.google.com/specimen/Roboto+Mono"
 
